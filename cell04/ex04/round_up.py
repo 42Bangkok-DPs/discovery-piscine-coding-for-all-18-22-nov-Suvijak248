@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def main():
     # Prompt the user for a number
     user_input = input("Give me a number: ")
