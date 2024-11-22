@@ -1,5 +1,4 @@
-# checkmate.py
-
+#!/usr/bin/env python3
 def checkmate(board):
     board = board.strip().split('\n')
     n = len(board)
