@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def main():
     age = int(input("Please tell me your age: "))
 
